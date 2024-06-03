@@ -1,0 +1,6 @@
+{
+    "accessToken": "YOUR_NEW_ACCESS_TOKEN",
+    "markerImageUrl": "YOUR_PATH_TO_CUSTOM_MARKER",
+    "routesUrl": "/wp-content/themes/THEME_NAME/js/routes.json"
+  }
+  
